@@ -24,7 +24,7 @@ button:hover {
     background-color: #2055a0;
 }
 
-#list {
+.list {
     background-color: white;
     padding: 20px;
     margin: 20px auto;
@@ -39,7 +39,7 @@ button:hover {
     font-size: 20px;
 }
 
-#cards {
+.cards {
     margin-top: 20px;
 }
 
